@@ -1,0 +1,38 @@
+{
+ "AAPL": {
+  "trades": 24861,
+  "identity_max_gap_bps": 7.105427357601002e-15,
+  "share_on_correct_side": 0.953421020876071,
+  "share_inside_spread": 0.34226298218092593
+ },
+ "AMZN": {
+  "trades": 8182,
+  "identity_max_gap_bps": 1.4210854715202004e-14,
+  "share_on_correct_side": 0.9722561720850648,
+  "share_inside_spread": 0.2830603764360792
+ },
+ "GOOG": {
+  "trades": 7982,
+  "identity_max_gap_bps": 7.105427357601002e-15,
+  "share_on_correct_side": 0.967677273866199,
+  "share_inside_spread": 0.3388874968679529
+ },
+ "INTC": {
+  "trades": 10369,
+  "identity_max_gap_bps": 7.105427357601002e-15,
+  "share_on_correct_side": 0.9995177934227023,
+  "share_inside_spread": 0.2816086411418652
+ },
+ "MSFT": {
+  "trades": 10184,
+  "identity_max_gap_bps": 1.4210854715202004e-14,
+  "share_on_correct_side": 0.9990180675569521,
+  "share_inside_spread": 0.264630793401414
+ },
+ "simulated_var": {
+  "true_impulse_bps": 2.0,
+  "estimated_impulse_bps": 1.99812853339759,
+  "true_trade_share": 0.7713326144608804,
+  "estimated_trade_share": 0.7925572323005451
+ }
+}

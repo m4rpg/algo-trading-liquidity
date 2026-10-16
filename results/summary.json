@@ -1,0 +1,111 @@
+{
+ "data": {
+  "AAPL": {
+   "messages": 400391,
+   "executions": 34990,
+   "trades": 24861,
+   "hidden_exec_share": 0.3238639611317519
+  },
+  "AMZN": {
+   "messages": 269748,
+   "executions": 11419,
+   "trades": 8182,
+   "hidden_exec_share": 0.21411682283912778
+  },
+  "GOOG": {
+   "messages": 147916,
+   "executions": 11678,
+   "trades": 7982,
+   "hidden_exec_share": 0.33507449905805786
+  },
+  "INTC": {
+   "messages": 624040,
+   "executions": 32483,
+   "trades": 10369,
+   "hidden_exec_share": 0.10956500323246006
+  },
+  "MSFT": {
+   "messages": 668765,
+   "executions": 33414,
+   "trades": 10184,
+   "hidden_exec_share": 0.10821811216855211
+  }
+ },
+ "order_lifetimes": {
+  "AAPL": {
+   "submitted": 191015,
+   "cancelled_unfilled": 0.8592466560217784,
+   "cancelled_within_100ms": 0.3078187576891867,
+   "cancelled_within_1s": 0.5917074575295134,
+   "cancelled_within_10ms": 0.18885951365076042
+  },
+  "AMZN": {
+   "submitted": 131954,
+   "cancelled_unfilled": 0.8871273322521485,
+   "cancelled_within_100ms": 0.2721402913136396,
+   "cancelled_within_1s": 0.47212665019628053,
+   "cancelled_within_10ms": 0.16261727571729542
+  },
+  "GOOG": {
+   "submitted": 71258,
+   "cancelled_unfilled": 0.8678323837323528,
+   "cancelled_within_100ms": 0.22780600072974264,
+   "cancelled_within_1s": 0.38043447753234727,
+   "cancelled_within_10ms": 0.1377950545903618
+  },
+  "INTC": {
+   "submitted": 304790,
+   "cancelled_unfilled": 0.907933331146035,
+   "cancelled_within_100ms": 0.35498539978345744,
+   "cancelled_within_1s": 0.46409987204304604,
+   "cancelled_within_10ms": 0.2923980445552676
+  },
+  "MSFT": {
+   "submitted": 329566,
+   "cancelled_unfilled": 0.9035489097783145,
+   "cancelled_within_100ms": 0.34865247021840845,
+   "cancelled_within_1s": 0.44330119004994445,
+   "cancelled_within_10ms": 0.2834788782823471
+  }
+ },
+ "sign_match": {
+  "algo_trad_All": {
+   "same": 8,
+   "of": 13,
+   "same_and_sig": 3,
+   "opposite_and_sig": 2
+  },
+  "algo_trad_High-price": {
+   "same": 9,
+   "of": 13,
+   "same_and_sig": 2,
+   "opposite_and_sig": 2
+  },
+  "algo_trad_Low-price": {
+   "same": 5,
+   "of": 13,
+   "same_and_sig": 1,
+   "opposite_and_sig": 3
+  },
+  "log_messages_All": {
+   "same": 9,
+   "of": 13,
+   "same_and_sig": 4,
+   "opposite_and_sig": 1
+  },
+  "log_messages_High-price": {
+   "same": 10,
+   "of": 13,
+   "same_and_sig": 5,
+   "opposite_and_sig": 0
+  },
+  "log_messages_Low-price": {
+   "same": 7,
+   "of": 13,
+   "same_and_sig": 3,
+   "opposite_and_sig": 2
+  }
+ },
+ "n_obs_main": 195,
+ "main_width_s": 600
+}

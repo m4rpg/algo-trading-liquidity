@@ -1,0 +1,32 @@
+{
+ "AAPL": {
+  "messages": 400391,
+  "executions": 34990,
+  "trades": 24861,
+  "hidden_exec_share": 0.3238639611317519
+ },
+ "AMZN": {
+  "messages": 269748,
+  "executions": 11419,
+  "trades": 8182,
+  "hidden_exec_share": 0.21411682283912778
+ },
+ "GOOG": {
+  "messages": 147916,
+  "executions": 11678,
+  "trades": 7982,
+  "hidden_exec_share": 0.33507449905805786
+ },
+ "INTC": {
+  "messages": 624040,
+  "executions": 32483,
+  "trades": 10369,
+  "hidden_exec_share": 0.10956500323246006
+ },
+ "MSFT": {
+  "messages": 668765,
+  "executions": 33414,
+  "trades": 10184,
+  "hidden_exec_share": 0.10821811216855211
+ }
+}
