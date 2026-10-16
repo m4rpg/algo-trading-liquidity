@@ -1,7 +1,5 @@
 # Does Algorithmic Trading Improve Liquidity?
 
-Research Seminar "Data Analysis in Finance", HSE, Group 6.
-
 This project replicates the analysis of Hendershott, Jones and Menkveld (2011), "Does Algorithmic Trading Improve Liquidity?", Journal of Finance 66(1), 1-33. The original study uses TAQ and NYSE System Order Data for 2002-2003, which are not publicly available. We therefore use LOBSTER data, which contain all NASDAQ messages for AAPL, AMZN, GOOG, INTC and MSFT on 21 June 2012.
 
 ## Project overview
